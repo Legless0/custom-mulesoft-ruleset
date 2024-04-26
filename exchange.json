@@ -1,0 +1,12 @@
+{ 
+	"main":"ruleset.yaml", 
+	"name":"Custom Best Practices", 
+	"organizationId":"c8816973-0064-4b8a-80cb-480706d35c4a", 
+	"groupId":"c8816973-0064-4b8a-80cb-480706d35c4a", 
+	"assetId":"custom-best-practices", 
+	"version":"1.6.1", 
+	"classifier":"ruleset", 
+	"dependencies":[], 
+	"tags":["specification"], 
+	"descriptorVersion": "1.0.0" 
+}
